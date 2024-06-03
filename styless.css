@@ -1,0 +1,28 @@
+*{
+    box-sizing: content-box;
+    margin: 0px;
+}
+a{
+    color: black;
+}
+@media (min-width:768px) {
+    .email1{
+        width:50%;
+    }
+}
+
+.cen2{
+   position: relative;
+   left: 70px;
+}
+
+@media (min-width:768px) {
+.card{
+ max-width: 180px;
+}   
+}
+ @media (min-width:992px) {
+    .card{
+     min-width: 18rem;
+    }   
+    }
